@@ -1,0 +1,196 @@
+GET http://localhost:8080/pet
+
+###
+GET http://localhost:8080/pet/6
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Beagle",
+    "rating": 4.5,
+    "sold": 10,
+    "des": "Memiliki corak dengan kombinasi 3 warna. Ramah, sangat aktif, gesit, setia, dan pintar.",
+    "price": "Rp800.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Cavalier King Charles Spaniel",
+    "rating": 5.0,
+    "sold": 6,
+    "des": "Memiliki corak Blenheim (merah kastanye dan putih). Periang, lembut, dan tak kenal takut."
+    "price": "Rp134.000.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Pomeranian",
+    "rating": 4.5,
+    "sold": 15,
+    "des": "Memiliki corak warna cream dan putih. Sangat lincah, cerdas, dan imut.",
+    "price": "Rp900.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Poodle",
+    "rating": 5.0,
+    "sold": 18,
+    "des": "Memiliki corak warna coklat. Pandai, ceria, selalu waspada, dan memiliki insting yang tajam."
+    "price": "Rp800.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Anggora",
+    "rating": 5.0,
+    "sold": 18,
+    "des": "Suka bermain, sangat aktif, riuh, dan suka mencari perhatian pemiliknya.",
+    "price": "Rp650.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Singapura",
+    "rating": 4.0,
+    "sold": 6,
+    "des": "Periang, selalu ingin tahu, senang bermain, tidak akan merusak barang di sekitarnya, dan interaktif.",
+    "price": "Rp18.500.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Russian Blue",
+    "rating": 4.5,
+    "sold": 12,
+    "des": "Cerdas dan lucu, tetapi cenderung pemalu di sekitar orang asing.",
+    "price": "Rp2.500.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Balinese",
+    "rating": 5.0,
+    "sold": 15,
+    "des": "Sangat aktif, menyenangkan, dan suka bermain dengan pemiliknya.",
+    "price": "Rp4.000.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Nuri",
+    "rating": 4.0,
+    "sold": 18,
+    "des": "Memiliki bulu berwarna merah dan suara yang merdu, serta mampu menirukan suara manusia.",
+    "price": "Rp800.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Kakatua",
+    "rating": 4.5,
+    "sold": 14,
+    "des": "Penuh kasih sayang, lucu, dan jail.",
+    "price": "Rp3.800.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Burung Hantu",
+    "rating": 5.0,
+    "sold": 20,
+    "des": "Pendengar yang baik, memiliki penglihatan yang tajam, pendiam, sederhana, dan bijak.",
+    "price": "Rp500.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Beo",
+    "rating": 4.5,
+    "sold": 16,
+    "des": "Ramah, lucu, suka berbicara, dan suka bernyanyi mengikuti suara yang didengar.",
+    "price": "Rp1.000.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Kelinci Holland Lop",
+    "rating": 5.0,
+    "sold": 20,
+    "des": "Sangat enerjik, aktif, dan bersahabat, namun sulit digendong dan dipegang.",
+    "price": "Rp300.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Landak Mini Salt and Pepper",
+    "rating": 3.0,
+    "sold": 5,
+    "des": "Jinak, pemalu, dan penakut. Durinya tidak berbahaya dan aman.",
+    "price": "Rp220.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "American Guinea Pig",
+    "rating": 4.5,
+    "sold": 17,
+    "des": "Ramah dan senang bermain dengan anak-anak.",
+    "price": "Rp330.000,00"
+}
+
+###
+POST http://localhost:8080/pet
+Content-Type: application/json
+
+{
+    "name": "Tupai Merah",
+    "rating": 4.0,
+    "sold": 12,
+    "des": "Berani, agresif, suka beraktifitas, dan pandai.",
+    "price": "Rp175.000,00"
+}
