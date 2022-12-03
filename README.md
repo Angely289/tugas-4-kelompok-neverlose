@@ -1,2 +1,2 @@
-# Struktur yang lebih teratur
+Struktur yang lebih teratur
 
